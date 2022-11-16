@@ -1,2 +1,4 @@
 pip install django --upgrade
 django-admin startproject BankKursovaa
+
+python manage.py runserver
