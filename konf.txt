@@ -1,0 +1,2 @@
+pip install django --upgrade
+django-admin startproject BankKursovaa
